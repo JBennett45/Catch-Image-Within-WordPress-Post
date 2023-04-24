@@ -8,4 +8,5 @@ if(has_post_thumbnail()) {
 // testing commit on new branch //
 // returns an image url either featured image, uploaded image or placeholder //
 echo $imgurl;
+// end comment //
 ?>

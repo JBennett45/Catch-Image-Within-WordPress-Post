@@ -17,4 +17,5 @@ function find_first_img_attachment() {
   }
   return $first_img;
 }
+// 2nd end comment (branch test) //
 ?>
